@@ -6,8 +6,7 @@
 
 ## Project Group Details
 <b>Group Number</b> - 10
- -------------------------------------------------------------------------------------------------------------------
-
+ 
 <b>Student Name:</b> Shubham Sarjerao Chaudhari<br>
 <b>Student ID:</b> x20160836<br>
 <b>Student Email ID:</b> x20160836@student.ncirl.ie <br>
@@ -19,7 +18,7 @@
 <b>Student Name:</b> Shital Namdeo Raut<br>
 <b>Student ID:</b> x19243294<br>
 <b>Student Email ID:</b> x19243294@student.ncirl.ie <br>
---------------------------------------------------------------------------------------------------------------------
+
 <b>Subject:</b>Database and Analytics Programming<br>
 <b>Lecturer:</b> Athanasios Staikopoulos<br>
 <b>College:</b> National College of Ireland
