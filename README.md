@@ -6,8 +6,7 @@
 
 ## Project Group Details
 <b>Group Number</b> - 10
- -------------------------------------------------------------------------------------------------------------------
-
+ 
 <b>Student Name:</b> Shubham Sarjerao Chaudhari<br>
 <b>Student ID:</b> x20160836<br>
 <b>Student Email ID:</b> x20160836@student.ncirl.ie <br>
@@ -19,7 +18,7 @@
 <b>Student Name:</b> Shital Namdeo Raut<br>
 <b>Student ID:</b> x19243294<br>
 <b>Student Email ID:</b> x19243294@student.ncirl.ie <br>
---------------------------------------------------------------------------------------------------------------------
+
 <b>Subject:</b>Database and Analytics Programming<br>
 <b>Lecturer:</b> Athanasios Staikopoulos<br>
 <b>College:</b> National College of Ireland
@@ -167,7 +166,7 @@ We hosted our database on cloud using MongoDB Atlas. We chose MongoDB Atlas as i
 
 5. <b>x20160836-shubham-chaudhari-starbucks-twitter-analysis.ipynb</b> - Run this file to see Exploratory Data Analysis of Starbucks Sentiment Analysis.
 
-6. <b>x19243294-shital-raut-weather-locations-analysis.ipynb</b> - - Run this file to see Exploratory Data Analysis of Weather Analysis.
+6. <b>x19243294-shital-raut-weather-locations-analysis.ipynb</b> - Run this file to see Exploratory Data Analysis of Weather Analysis.
 
 
 ## Special Thanks - Athanasios Staikopoulos
