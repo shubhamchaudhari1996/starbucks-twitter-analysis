@@ -22,3 +22,5 @@ sqlite3
 mysql-connector-python
 pymysql
 mysqlclient
+pymongo[srv]
+dnspython
