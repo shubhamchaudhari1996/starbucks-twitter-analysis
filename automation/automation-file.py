@@ -15,10 +15,10 @@ print("*************************************************************************
 
 """ Twitter API Keys
 """
-consumer_key = "xhsSu7y92oAFi9U3yX794Chav"
-consumer_secret = "0YWxdhZ2XvBs6Tk33iolwIYSdcuZL23CmhRK1TeHV6bIMdQ7SM"
-access_token = "324351622-rO9AGKtQ8WvWBQrX8bnWlEvXcJ3FgKpR3tPLB7fW"
-access_token_secret = "8OAe9FSFELuvIRHccwOgncxAgxIPgGvp19JDe44IeYOuV"
+consumer_key = "xxxxxxxxxxxxxxxxxx"
+consumer_secret = "xxxxxxxxxxxxxxxxxx"
+access_token = "xxxxxxxxxxxxxxxxxx"
+access_token_secret = "xxxxxxxxxxxxxxxxxx"
 auth = tweepy.OAuthHandler( consumer_key , consumer_secret )
 auth.set_access_token( access_token , access_token_secret )
 api = tweepy.API(auth)
@@ -30,7 +30,7 @@ print("*************************************************************************
 
 """ Weather API Keys
 """
-api_key = '4ec6d8294cc035f9984915415bf61ca3'
+api_key = "xxxxxxxxxxxxxxxxxx"
 api_url = "http://api.openweathermap.org/data/2.5/weather?"
 
 print("Weather API Key Authenticated")
@@ -192,7 +192,7 @@ def get_intraday_prices(symbol):
     date: Fetch current day data
     """
     ticker = symbol
-    iex_api_key = 'pk_32ef64b2003542b6a829b8f94831c789'
+    iex_api_key = "xxxxxxxxxxxxxxxxxx"
     url = f'https://cloud.iexapis.com/stable/stock/{ticker}/intraday-prices?token={iex_api_key}'
     df = requests.get(url).json()
     date = df[1]['date']
